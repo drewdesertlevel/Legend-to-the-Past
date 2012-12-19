@@ -1,0 +1,18 @@
+c:\users\drew\documents\visual studio 2012\Projects\Link\Link\bin\Debug\Link.exe.config
+c:\users\drew\documents\visual studio 2012\Projects\Link\Link\bin\Debug\Link.exe
+c:\users\drew\documents\visual studio 2012\Projects\Link\Link\bin\Debug\Link.pdb
+c:\users\drew\documents\visual studio 2012\Projects\Link\Link\obj\Debug\Link.csprojResolveAssemblyReference.cache
+c:\users\drew\documents\visual studio 2012\Projects\Link\Link\obj\Debug\Link.Game.resources
+c:\users\drew\documents\visual studio 2012\Projects\Link\Link\obj\Debug\Link.Properties.Resources.resources
+c:\users\drew\documents\visual studio 2012\Projects\Link\Link\obj\Debug\Link.csproj.GenerateResource.Cache
+c:\users\drew\documents\visual studio 2012\Projects\Link\Link\obj\Debug\Link.exe
+c:\users\drew\documents\visual studio 2012\Projects\Link\Link\obj\Debug\Link.pdb
+C:\Users\Drew\Desktop\Link\Link\bin\Debug\Link.exe.config
+C:\Users\Drew\Desktop\Link\Link\obj\Debug\Link.exe
+C:\Users\Drew\Desktop\Link\Link\obj\Debug\Link.pdb
+C:\Users\Drew\Desktop\Link\Link\bin\Debug\Link.exe
+C:\Users\Drew\Desktop\Link\Link\bin\Debug\Link.pdb
+C:\Users\Drew\Desktop\Link\Link\obj\Debug\Link.csprojResolveAssemblyReference.cache
+C:\Users\Drew\Desktop\Link\Link\obj\Debug\Link.Game.resources
+C:\Users\Drew\Desktop\Link\Link\obj\Debug\Link.Properties.Resources.resources
+C:\Users\Drew\Desktop\Link\Link\obj\Debug\Link.csproj.GenerateResource.Cache
